@@ -1,0 +1,26 @@
+{
+    "Name": "connectionInfo",
+    "Info": [
+        {
+            "database_type": "mysql"
+        },
+        {
+            "server": "localhost"
+        },
+        {
+            "database_name": "demo"
+        },
+        {
+            "username": "demo"
+        },
+        {
+            "password": "demo"
+        },
+        {
+            "charset": "utf8"
+        },
+        {
+            "port": "8889"
+        }
+    ]
+}
